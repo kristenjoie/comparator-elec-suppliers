@@ -1,0 +1,424 @@
+[
+    {
+        "name": "engie",
+        "contrats": [
+            {
+                "name": "Simple Garantie",
+                "value": {
+                    "abo": 172.87,
+                    "HP": 0.24493,
+                    "HC": 0.24493
+                }
+            },
+            {
+                "name": "HP/HC Garantie",
+                "value": {
+                    "abo": 182.88,
+                    "HP": 0.25934,
+                    "HC": 0.20633
+                }
+            },
+            {
+                "name": "HP/HC marché",
+                "value": {
+                    "abo": 22.83,
+                    "HP": 0.34202,
+                    "HC": 0.09499
+                }
+            },
+            {
+                "name": "Simple Marché",
+                "value": {
+                    "abo": 12.83,
+                    "HP": 0.24991,
+                    "HC": 0.24991
+                }
+            },
+            {
+                "name": "Week-end HP/HC",
+                "value": {
+                    "abo": 233,
+                    "HP": 0.20161,
+                    "HC": 0.14388,
+                    "weekend": {
+                        "HP": 0.14388,
+                        "HC": 0.14388
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "name": "EDF",
+        "contrats": [
+            {
+                "name": "Tarif Bleu",
+                "value": {
+                    "abo": 169.92,
+                    "HP": 0.1740,
+                    "HC": 0.1740
+                }
+            },
+            {
+                "name": "Tarif Bleu HP/HC",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.1841,
+                    "HC": 0.1470
+                }
+            },
+            {
+                "name": "Vert Electrique",
+                "value": {
+                    "abo": 169.93,
+                    "HP": 0.1822,
+                    "HC": 0.1822
+                }
+            },
+            {
+                "name": "Vert Electrique HP/HC",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.19,
+                    "HC": 0.1545
+                }
+            },
+            {
+                "name": "Vert Electrique Week-End",
+                "value": {
+                    "abo": 169.68,
+                    "HP": 0.2087,
+                    "HC": 0.2087
+                },
+                "weekend": {
+                    "HP": 0.1541,
+                    "HC": 0.1541
+                }
+            },
+            {
+                "name": "Vert Electrique Week-End HP/HC",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2235,
+                    "HC": 0.1521
+                },
+                "weekend": {
+                    "HP": 0.1521,
+                    "HC": 0.1521
+                }
+            },
+            {
+                "name": "Vert Electrique Auto",
+                "value": {
+                    "abo": 196.92,
+                    "HP": 0.2160,
+                    "HC": 0.1126
+                }
+            },
+            {
+                "name": "Vert Electrique Auto Week-end",
+                "value": {
+                    "abo": 196.56,
+                    "HP": 0.248,
+                    "HC": 0.1286
+                },
+                "weekend": {
+                    "HP": 0.1286,
+                    "HC": 0.1286
+                }
+            },
+            {
+                "name": "Offre Zen Week-End",
+                "value": {
+                    "abo": 169.68,
+                    "HP": 0.1968,
+                    "HC": 0.1968
+                },
+                "weekend": {
+                    "HP": 0.1405,
+                    "HC": 0.1405
+                }
+            },
+            {
+                "name": "Offre Zen HP/HC",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2090,
+                    "HC": 0.1491
+                },
+                "weekend": {
+                    "HP": 0.1491,
+                    "HC": 0.1491
+                }
+            },
+            {
+                "name": "Offre Zen Plus Lundi",
+                "value": {
+                    "abo": 169.68,
+                    "HP": 0.2081,
+                    "HC": 0.2081
+                },
+                "weekend": {
+                    "HP": 0.1484,
+                    "HC": 0.1484
+                },
+                "day": 0
+            },
+            {
+                "name": "Offre Zen Plus HP/HC Lundi",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2152,
+                    "HC": 0.1534
+                },
+                "weekend": {
+                    "HP": 0.1534,
+                    "HC": 0.1534
+                },
+                "day": 0
+            },
+            {
+                "name": "Offre Zen Plus Mercredi",
+                "value": {
+                    "abo": 169.68,
+                    "HP": 0.2081,
+                    "HC": 0.2081
+                },
+                "weekend": {
+                    "HP": 0.1484,
+                    "HC": 0.1484
+                },
+                "day": 2
+            },
+            {
+                "name": "Offre Zen Plus HP/HC Mercredi",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2152,
+                    "HC": 0.1534
+                },
+                "weekend": {
+                    "HP": 0.1534,
+                    "HC": 0.1534
+                },
+                "day": 2
+            },
+            {
+                "name": "Offre Zen Plus Vendredi",
+                "value": {
+                    "abo": 169.68,
+                    "HP": 0.2081,
+                    "HC": 0.2081
+                },
+                "weekend": {
+                    "HP": 0.1484,
+                    "HC": 0.1484
+                },
+                "day": 4
+            },
+            {
+                "name": "Offre Zen Plus HP/HC Vendredi",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2152,
+                    "HC": 0.1534
+                },
+                "weekend": {
+                    "HP": 0.1534,
+                    "HC": 0.1534
+                },
+                "day": 4
+            }
+        ]
+    },
+    {
+        "name": "TotalEnergie",
+        "contrats": [
+            {
+                "name": "Offre Essentielle",
+                "value": {
+                    "abo": 169.92,
+                    "HP": 0.1680,
+                    "HC": 0.1680
+                }
+            },
+            {
+                "name": "Offre Essentielle HP/HC",
+                "value": {
+                    "abo": 221.76,
+                    "HP": 0.1781,
+                    "HC": 0.1410
+                }
+            },
+            {
+                "name": "Offre Vert Fixe",
+                "value": {
+                    "abo": 169.92,
+                    "HP": 0.3878,
+                    "HC": 0.3878
+                }
+            },
+            {
+                "name": "Offre Vert Fixe HP/HC",
+                "value": {
+                    "abo": 221.76,
+                    "HP": 0.6592,
+                    "HC": 0.1963
+                }
+            }
+        ]
+    },
+    {
+        "name": "ENI",
+        "contrats": [
+            {
+                "name": "Offre Indexée",
+                "value": {
+                    "abo": 182.55,
+                    "HP": 0.37444,
+                    "HC": 0.37444
+                }
+            },
+            {
+                "name": "Offre Indexée HP/HC",
+                "value": {
+                    "abo": 196.29,
+                    "HP": 0.38452,
+                    "HC": 0.34744
+                }
+            },
+            {
+                "name": "Offre Indexée Eco Protection Plus",
+                "value": {
+                    "abo": 182.55,
+                    "HP": 0.37444,
+                    "HC": 0.37444
+                }
+            },
+            {
+                "name": "Offre Indexée Eco Protection Plus HP/HC",
+                "value": {
+                    "abo": 196.29,
+                    "HP": 0.38452,
+                    "HC": 0.34744
+                }
+            }
+        ]
+    },
+    {
+        "name": "Ekwateur",
+        "contrats": [
+            {
+                "name": "Verte",
+                "value": {
+                    "abo": 226.2,
+                    "HP": 0.1638,
+                    "HC": 0.1638
+                }
+            },
+            {
+                "name": "verte HP/HC",
+                "value": {
+                    "abo": 229.68,
+                    "HP": 0.177,
+                    "HC": 0.141
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mint energie",
+        "contrats": [
+            {
+                "name": "Summer",
+                "value": {
+                    "abo": 202.44,
+                    "HP": 0.1606,
+                    "HC": 0.1606
+                }
+            },
+            {
+                "name": "Summer HP/HC",
+                "value": {
+                    "abo": 218.88,
+                    "HP": 0.1698,
+                    "HC": 0.1357
+                }
+            },
+            {
+                "name": "Smart",
+                "value": {
+                    "abo": 202.44,
+                    "HP": 0.2562,
+                    "HC": 0.2562
+                }
+            },
+            {
+                "name": "Smart HP/HC",
+                "value": {
+                    "abo": 218.88,
+                    "HP": 0.2713,
+                    "HC": 0.2157
+                }
+            }
+        ]
+    },
+    {
+        "name": "Vattenfall",
+        "contrats": [
+            {
+                "name": "Base",
+                "value": {
+                    "abo": 193.8,
+                    "HP": 0.1658,
+                    "HC": 0.1658
+                }
+            },
+            {
+                "name": "HP/HC",
+                "value": {
+                    "abo": 207.6,
+                    "HP": 0.1754,
+                    "HC": 0.1401
+                }
+            }
+        ]
+    },
+    {
+        "name": "Mega",
+        "contrats": [
+            {
+                "name": "Swifty",
+                "value": {
+                    "abo": 219.84,
+                    "HP": 0.1889,
+                    "HC": 0.1889
+                }
+            },
+            {
+                "name": "Swifty HP/HC",
+                "value": {
+                    "abo": 233.64,
+                    "HP": 0.2009,
+                    "HC": 0.1529
+                }
+            },
+            {
+                "name": "Flexity",
+                "value": {
+                    "abo": 169.92,
+                    "HP": 0.2646,
+                    "HC": 0.2646
+                }
+            },
+            {
+                "name": "Flexity HP/HC",
+                "value": {
+                    "abo": 183.6,
+                    "HP": 0.2907,
+                    "HC": 0.2255
+                }
+            }
+        ]
+    }
+]
